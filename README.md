@@ -7,7 +7,7 @@ El chat puede montarse en un servidor windows o linux, cloud o local.
 </center>
 
 ## Requisitos previos
-Tener instalar node.js version 8.9.1 o superior.
+Tener instalado node.js version 8.9.1 o superior.
 
 
 ## ¿Cómo instalar?
