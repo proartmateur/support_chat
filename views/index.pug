@@ -1,0 +1,21 @@
+extends layout
+block header
+  link(rel='stylesheet', href='/stylesheets/socket_chat.css')
+
+block content
+  h1= title
+  p Hi Welcome to #{title}
+  p Emojis 
+    i windows: start + period
+
+  div
+    ul(id="messages")
+
+  form(action="#")
+    input(type="text", name="message" id="message" placeholder="Escribe un mensaje aquí")
+    input(type="submit", value="send" id="send")
+
+
+  script(src="/socket.io/socket.io.js")
+  script(src="/javascripts/vendor/jquery-1.11.1.js")
+  script(src="/javascripts/socket_io.js")
