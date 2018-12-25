@@ -2,6 +2,9 @@
 Chat de soporte en tiempo real, escrito en node.js e implementando socket.io.
 El chat puede montarse en un servidor windows o linux, cloud o local.
 
+<img src="https://media.giphy.com/media/RekMgwxgKU2vPC3MdR/giphy.gif" />
+
+
 ## Requisitos previos
 Tener instalar node.js version 8.9.1 o superior.
 
