@@ -21,6 +21,6 @@ $ npm install
 $ npm start
 ```
 + Usar el chat
-Abrir el navegador web (google chrome, firefox, edge) e introducir la dirección: **http:\\\\127.0.0.1:3006 **
+Abrir el navegador web (google chrome, firefox, edge) e introducir la dirección: ** http:\\\\127.0.0.1:3006 **
 
 Por cada ventana del navegador se agrega un usuario guest al chat.
