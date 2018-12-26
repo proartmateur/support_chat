@@ -6,6 +6,7 @@ El chat puede montarse en un servidor windows o linux, cloud o local.
 <img src="https://media.giphy.com/media/1rQnlJ9WWYS15HWJqG/giphy.gif" />
 </center>
 
+<button name="button" onclick="https://test-node-en.herokuapp.com/">View Demo</button>
 ## Requisitos previos
 Tener instalado node.js version 8.9.1 o superior.
 
